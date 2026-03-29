@@ -18,7 +18,7 @@ body {
 header {
   text-align: center;
   padding: 30px 20px;
-  background: #f9f9f9;
+  background: #f0f0f0;
 }
 
 header img {
@@ -62,7 +62,7 @@ li { margin-bottom: 6px; }
 a { color: #4a90e2; }
 
 pre {
-  background: #f4f4f4;
+  background: #f0f0f0;
   padding: 16px;
   border-radius: 6px;
 }
