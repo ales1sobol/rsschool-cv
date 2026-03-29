@@ -31,7 +31,6 @@ header img {
   object-fit: cover;
 }
 
-
 nav ul {
   display: flex;
   gap: 16px;
@@ -76,4 +75,8 @@ footer {
   padding: 20px;
   background: #f0f0f0;
   margin-top: 30px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
